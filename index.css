@@ -12,7 +12,6 @@ h1 {
 .container {
     display: flex;
     justify-content: space-around;
-    width: 400px;
 }
 .btn {
     background-color: #1B244A;
